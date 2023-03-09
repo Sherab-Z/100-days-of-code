@@ -4,12 +4,17 @@
 
 **Today's Progress**: 
 
+**Today I Learned/Practiced**: 
+
 **Thoughts & Feelings**: 
 
-**Link(s) to work**:
+**Link(s) to work**: 
 1. 
 
+
 ------------------------------------------------------
+
+
 
 }
 
@@ -37,5 +42,21 @@
 
 **Link(s) to work**:
 1. https://github.com/Sherab-Z/game_rock-paper-scissors/tree/rps-ui
+
+
+------------------------------------------------------
+
+
+### Day 3: March 9, 2023
+
+**Today's Progress**: Not much - only had 50m in the day, then a sleepy 30m after girls in bed. But managed to eliminate a bunch of tasks that actually didn't need to be done, and started the 'display scores on UI' feature...
+
+**Today I Learned/Practiced**: How to use the *rest parameter syntax* ( function myFunc(...myArg) {here's the rest} ) to allow a function to recieve any number of arguments and automatically convert them to an array for passing into the function body
+
+**Thoughts & Feelings**: Proud that I'm still able to make a little progress towards my goals on a day when we struggled so much as a family.
+
+**Link(s) to work**:
+1. https://github.com/Sherab-Z/game_rock-paper-scissors/tree/rps-ui
+
 
 ------------------------------------------------------
