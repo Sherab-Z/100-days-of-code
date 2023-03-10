@@ -60,3 +60,20 @@
 
 
 ------------------------------------------------------
+
+
+### Day 4: March 10, 2023
+
+**Today's Progress**: Finished re-build & adding UI for 'Rock, Paper, Scissors' game! At least, the game logic is sound...the styling still needs some work..
+
+**Today I Learned/Practiced**: Always start with an MVP! The *tiniest* change can take a loooong time to implement, and can break other features...
+
+**Thoughts & Feelings**: Tired, slightly numb, but proud that I've reached my goal..and happy that I can now move on with the Odin course!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/game_rock-paper-scissors/tree/rps-ui
+
+
+------------------------------------------------------
+
+
