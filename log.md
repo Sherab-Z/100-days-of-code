@@ -77,3 +77,17 @@
 ------------------------------------------------------
 
 
+### Day 5: March 11, 2023
+
+**Today's Progress**: Started Etch-a-Sketch project. Already setup with git, and I went through other ss top-rated live examples for inspiration, noted my ideas and made a plan, then started writing that in my pseudo.md
+
+**Today I Learned/Practiced**: Never try to develop when you're tired...but if you have to, then at least only do light work like this ;)
+
+**Thoughts & Feelings**: I'm SUPER tired, literally falling asleep right now as I type...but it's great that I'm doing this 100DaysOfCode challenge, bc otherwise I def wouldn't be keeping up this much momentum!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch
+
+
+------------------------------------------------------
+
