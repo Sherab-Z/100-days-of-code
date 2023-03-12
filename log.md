@@ -91,3 +91,18 @@
 
 ------------------------------------------------------
 
+
+### Day 6: March 12, 2023
+
+**Today's Progress**: Completed my plan for building the 'Etch-a-Sketch' project - wrote up pseudo.md
+
+**Today I Learned/Practiced**: Project planning at the beginning, drawing a wireframe on paper, breaking down the task into smaller pieces and working out the steps in each one
+
+**Thoughts & Feelings**: Much more confident about starting this project than previous ones
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch
+
+
+------------------------------------------------------
+
