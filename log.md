@@ -96,13 +96,26 @@
 
 **Today's Progress**: Completed my plan for building the 'Etch-a-Sketch' project - wrote up pseudo.md
 
-**Today I Learned/Practiced**: Project planning at the beginning, drawing a wireframe on paper, breaking down the task into smaller pieces and working out the steps in each one
+**Today I Learned/Practiced**: Project planning at the beginning, drawing a sketch on paper, breaking down the task into smaller pieces and working out the steps in each one
 
 **Thoughts & Feelings**: Much more confident about starting this project than previous ones
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/etch-a-sketch
 
+
+------------------------------------------------------
+
+### Day 7: March 13, 2023
+
+**Today's Progress**: Made a more detailed wireframe with html elements, id's and classes, etc. And started building out the html - which went a lot faster and smoother due to the above planning I've put in.
+
+**Today I Learned/Practiced**: Putting the time in to make a proper plan before I start writing the code...
+
+**Thoughts & Feelings**: The increased confidence from having a more precise and detailed plan is massive!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/889cd1d9aa32e1cbbdcf21313447f5f3a93f426c
 
 ------------------------------------------------------
 
