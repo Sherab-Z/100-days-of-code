@@ -117,5 +117,21 @@
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/etch-a-sketch/commit/889cd1d9aa32e1cbbdcf21313447f5f3a93f426c
 
+
+------------------------------------------------------
+
+
+### Day 8: March 14, 2023
+
+**Today's Progress**: Made basic layout work using position: absolute and flexbox. Began building JS canvas grid feature.
+
+**Today I Learned/Practiced**: CSS layouts, AI help.
+
+**Thoughts & Feelings**: Been slow today due to my overwhelming sadness I'm feeling due to traumas. But still  made progress.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/26fda3051c930194891fbf37f16f97e1f697fe9f
+
+
 ------------------------------------------------------
 
