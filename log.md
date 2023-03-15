@@ -135,3 +135,19 @@
 
 ------------------------------------------------------
 
+
+
+### Day 9: March 15, 2023
+
+**Today's Progress**: Built drawOnCanvas() function with help of ChatGPT, with a lot of prompting back and forth
+
+**Today I Learned/Practiced**: How to write and debug a function using chatGPT. It's not actually as easy as it seems.
+
+**Thoughts & Feelings**: Glad that I'm incorporating AI tools into my learning, both to learn faster and to get ready to use these tools irl.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/c3d34944f173643d8eb6f8f50d2cdd5d9310a6d2
+
+
+------------------------------------------------------
+
