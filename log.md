@@ -151,3 +151,18 @@
 
 ------------------------------------------------------
 
+
+### Day 1: March 18, 2023
+
+**Today's Progress**: Completed a feature on the Etch-a-Sketch project: New Canvas btn now prompts user for their choice of pen thickeness and validates it, then app converts this into a grid side lenght number, and creates a new canvas from that.
+
+**Today I Learned/Practiced**: JS functions, event handlers, state management
+
+**Thoughts & Feelings**: Gutted that I missed posting my code to Twitter for 2 days, so I'm starting over again. But I did do 1h of coding each day, so that's good.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/21a109dded9d63528e0b8fc8956f6f88ce6c6ed6
+
+
+------------------------------------------------------
+
