@@ -166,3 +166,15 @@
 
 ------------------------------------------------------
 
+
+### Day 2: March 19, 2023
+
+**Today's Progress**: I tried building settings button that cycles between 4 pen width options, but realized it will take a lot more thought than I first realized. My code became buggy as hell, so I git reset it. Oh well.
+
+**Today I Learned/Practiced**: Always, always, ALWAYS plan a feature before you start building it!
+
+**Thoughts & Feelings**: Somewhat demoralized & frustrated, but I'm learning. And the pressure is on to start earning from this stuff, so that's not helping me to learn well...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/bdbe8ac7413b242a00c3870d12dd7eed9a28708d
+2. 
