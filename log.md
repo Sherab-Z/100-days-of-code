@@ -177,4 +177,23 @@
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/etch-a-sketch/commit/bdbe8ac7413b242a00c3870d12dd7eed9a28708d
-2. 
+
+
+------------------------------------------------------
+
+
+### Day 3: March 20, 2023
+
+**Today's Progress**: Added a pen width button and icons that resize responsively based on the canvas size. Took a long time to do just that, and the button still doesn't do anything!
+
+**Today I Learned/Practiced**: How to resize an element responsively based on the size of another element.
+
+**Thoughts & Feelings**: Feels good to be able to read through my code and pretty-much know what's going on everywhere. Also frustrating that I haven't planned this project out very well again, but issues and ideas have been occurring along the way which I didn't have enough experience to anticipate at the start.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/7e3cd483b65edd64588b61361e684b04e391d4a6
+
+
+------------------------------------------------------
+
+
