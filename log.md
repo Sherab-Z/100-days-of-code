@@ -197,3 +197,17 @@
 ------------------------------------------------------
 
 
+### Day 4: March 21, 2023
+
+**Today's Progress**: Completed my project and pushed it to main remote branch, and moved on to the next chapter on Objects and Arrays in The Odin Project.
+
+**Today I Learned/Practiced**: Basics of Objects, and Array methods for...in, map, filter, sort, key in obj
+
+**Thoughts & Feelings**: I've covered quite a bit today, even though I only did small bits of actual coding. It was quite a good learning day!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/etch-a-sketch/commit/4357d066bfb2cf79742f4ae3d47c52a6d7d7e11d
+
+
+------------------------------------------------------
+
