@@ -211,3 +211,18 @@
 
 ------------------------------------------------------
 
+
+### Day 5: March 22, 2023
+
+**Today's Progress**: Finished the reading and started the Assignment for Fundamentals 5 chapter on Odin.
+
+**Today I Learned/Practiced**: Practiced using array methods on Wes Bos JS 30 course: reduce, some, every, find, and findIndex.
+
+**Thoughts & Feelings**: Upbeat and confident in my coding skills. It was pretty easy to apply the methods, the hard part is figuring out what the actual problem is I'm trying to solve, breaking it down into smaller chunks/steps, and only THEN building effective solutions to each one - basically, PSEUDOCODE.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JavaScript30-Course_Wes-Bos/commit/9dc1f1b3968db72ced084e0617a75d8a35fe6964
+
+
+------------------------------------------------------
+
