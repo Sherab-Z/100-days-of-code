@@ -1,5 +1,6 @@
 #TEMPLATE: {
 
+
 ### Day : , 2023
 
 **Today's Progress**: 
@@ -222,6 +223,22 @@
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JavaScript30-Course_Wes-Bos/commit/9dc1f1b3968db72ced084e0617a75d8a35fe6964
+
+
+------------------------------------------------------
+
+
+
+### Day 6: March 23, 2023
+
+**Today's Progress**: Started & completed 09-palindromes exercise in JS Arrays practice. I coded it without array methods at first - and passed all the tests - not being sure which array methods to use. Then I watched a video by Mosh on map() method, and he used it with filter() first, and I realized that's what I could use to refactor my code - and it works perfectly, and is much easier to read!
+
+**Today I Learned/Practiced**: map() and filter() methods for JS arrays
+
+**Thoughts & Feelings**: I'm happy that I'm growing my understanding of what's actually going underneath the code and it's top-level functionalities, into the underlying logic that runs it - data types, this method copies vs modifies an array, etc.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/javascript-exercises/commit/2272746c4fa338d95dc5f8e8bd37ec3b5ca76bbf
 
 
 ------------------------------------------------------
