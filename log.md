@@ -243,3 +243,18 @@
 
 ------------------------------------------------------
 
+
+### Day 7: March 24, 2023
+
+**Today's Progress**: Completed ex. 10_fibonacci, from start to finish this time :)
+
+**Today I Learned/Practiced**: Array methods: slice, reduce, push, pop. Using a combo of array methods to manipulate an array to produce the result I need, and doing so largely in my head! 
+
+**Thoughts & Feelings**: Gaining confidence in working with arrays!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/javascript-exercises/commit/dc61e9260d3b94d0eeec0d58a2ae84ca47c94c9b
+
+
+------------------------------------------------------
+
