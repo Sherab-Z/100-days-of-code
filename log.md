@@ -258,3 +258,18 @@
 
 ------------------------------------------------------
 
+
+### Day 8: March 25, 2023
+
+**Today's Progress**: It's saturday, so I've been out with family and only started programming after 9pm. So my brain is mush. I managed to complete an easy array function-building exercise - getTheBook(), which takes an array of book objects and returns an array of the titles (used map method). But then spent over 45m staring at the screen not being able to figure out getTheOldest using reduce or sort().pop(). 
+
+**Today I Learned/Practiced**: Array.map(), Array.reduce(), Array.sort()
+
+**Thoughts & Feelings**: Frustrated that I spent so long getting nothing done, but accepting more that I just CANT do this after 9pm, especially after spending a long time with my family (Mila in particular)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/javascript-exercises/commit/06472deba1097f27310d64bd73f6a6a435e5d01d
+
+
+------------------------------------------------------
+
