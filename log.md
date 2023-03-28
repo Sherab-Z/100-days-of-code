@@ -273,3 +273,51 @@
 
 ------------------------------------------------------
 
+
+GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
+### Day 9: , 2023
+
+**Today's Progress**: 
+
+**Today I Learned/Practiced**: 
+
+**Thoughts & Feelings**: 
+
+**Link(s) to work**: 
+1. 
+
+
+------------------------------------------------------
+
+
+GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
+### Day 10: , 2023
+
+**Today's Progress**: 
+
+**Today I Learned/Practiced**: 
+
+**Thoughts & Feelings**: 
+
+**Link(s) to work**: 
+1. 
+
+
+------------------------------------------------------
+
+
+
+### Day 11: March 28, 2023
+
+**Today's Progress**: Setup and created an overview plan for the Calculator PROJECT
+
+**Today I Learned/Practiced**: Using CLI to manage files, setting up a git repo locally & remotely, planning out a project
+
+**Thoughts & Feelings**: Was quite distracted today thinking about Dan Koe's advice on the One-Person Value Creator Business model. But managed to make some progress here
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/8e2034c4a7ffee133271d3f4b466d1ac432247ce
+
+
+------------------------------------------------------
+
