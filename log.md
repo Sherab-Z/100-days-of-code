@@ -321,3 +321,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 12: March 29, 2023
+
+**Today's Progress**: Very little - extreme tiredness from buzzing head last night and 3 wakeups from Mila. But I managed to create the operate() func with type checking, and learn a little more git
+
+**Today I Learned/Practiced**: Type checking in JS functions - no native type checking, you have to do it in the function. TypeScript will be breezy! Also practiced git merge and git push --force to force my local changes onto remote repo if I'm the sole dev on the repo. Very dangerous otherwise!
+
+**Thoughts & Feelings**: Tired. I want my bed...But glad that I showed up today and kept this thing going! Booyah!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/6e86b4da28e7c9c47b19909af3ab57209332eb66
+
+
+------------------------------------------------------
+
