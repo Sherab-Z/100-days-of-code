@@ -337,3 +337,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 13: March 30, 2023
+
+**Today's Progress**: Learned CSS grid from learncssgrid.com, then created all elements in html and added basic CSS Grid layout for calculator.
+
+**Today I Learned/Practiced**: CSS Grid
+
+**Thoughts & Feelings**: I managed this well. I started quite tired, with Mila watching a video on my bed. But after I taught Anezka and came back to this, I was in a much better state to focus, started by learning CSS Grid before I started implementing it - great step forward in my process!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/3f5f3fb92a3c8de118e38ee23dc8ed6da406b60d
+
+
+------------------------------------------------------
+
