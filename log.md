@@ -353,3 +353,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 14: March 31, 2023
+
+**Today's Progress**: Refactored html classes; refactored js - encapsulated vars in varObj & removed unnecessary type-checks in op functions
+
+**Today I Learned/Practiced**: Refactoring code; working with git and dealing with lost code there
+
+**Thoughts & Feelings**: Tired. Stressed about family not letting me work. Proud of the progress I'm making despite everything.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/41173fe2573163b0cc955c4aa0a628495888c02c
+
+
+------------------------------------------------------
+
