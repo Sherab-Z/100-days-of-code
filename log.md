@@ -369,3 +369,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 15: April 1, 2023
+
+**Today's Progress**: Finished styling my html, but a bug remains with the footer, main and header sections overlapping when I shrink the window vertically. 
+
+**Today I Learned/Practiced**: CSS alignment - not as easy as I thought!
+
+**Thoughts & Feelings**: 
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/64feaada5f056b17c2aeafd25abd5ff69531d297
+
+
+------------------------------------------------------
+
