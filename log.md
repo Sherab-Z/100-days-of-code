@@ -377,10 +377,10 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 **Today I Learned/Practiced**: CSS alignment - not as easy as I thought!
 
-**Thoughts & Feelings**: 
+**Thoughts & Feelings**: I'm getting the hang of CSS, but I don't want to make it my main job! I MUCH prefer JS - proper programming!
 
 **Link(s) to work**: 
-1. https://github.com/Sherab-Z/JS-Calculator/commit/64feaada5f056b17c2aeafd25abd5ff69531d297
+1. https://github.com/Sherab-Z/JS-Calculator/commit/66d1abeab94b1bbe447d16c156b7d0f8a2385c15
 
 
 ------------------------------------------------------
