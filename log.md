@@ -385,3 +385,20 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 16: April 2, 2023
+
+**Today's Progress**: Set up js for all the number buttons to update the display, and restored some lost js with git
+
+**Today I Learned/Practiced**: Fixing lost code with git; setting up event handlers for buttons. I tried to encapsulate my event handlers with the help of AI chatgpt, but realized it was getting above my ability level so reverted back to global event handlers for now.
+
+**Thoughts & Feelings**: Good! I learned how to actually fix issues with git, inc. merging; and I experimented with AI to help me, and am getting good at prompting!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/cbc26c18fff80c6f90038558ab613e0bf7e622e7
+
+
+------------------------------------------------------
+
+
