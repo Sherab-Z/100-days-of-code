@@ -402,3 +402,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 ------------------------------------------------------
 
 
+
+
+### Day 17: April 3, 2023
+
+**Today's Progress**: Did a lot of planning for the logic to make the calculator actually work
+
+**Today I Learned/Practiced**: System architecture, planning and psuedocode, as well as sketching out steps in user stories
+
+**Thoughts & Feelings**: Getting more confident in my planning and breaking a problem down into small parts
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/18432b120b50212ba6011be5535647642eca6557
+
+
+------------------------------------------------------
+
