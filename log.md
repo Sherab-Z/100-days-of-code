@@ -418,3 +418,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 18: April 4, 2023
+
+**Today's Progress**: Planned my logic in much greater detail, and solved how to manage the array to make the calculator work
+
+**Today I Learned/Practiced**: Planning program logic
+
+**Thoughts & Feelings**: Spent too much time on getting the colors right in Notability, and ran out of time to actually implement my logic. Need to simplify my workflow, my systems, my app toolbox, etc
+
+**Link(s) to work**: 
+1. It's a Notability note in my ipad
+
+
+------------------------------------------------------
+
