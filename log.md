@@ -433,3 +433,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 19: April 5, 2023
+
+**Today's Progress**: Began refactoring my logic in pseudocode, and started a logic tree to help work it out better
+
+**Today I Learned/Practiced**: Creating a logic tree
+
+**Thoughts & Feelings**: Getting better at making sure things will work before I implement any code. This is essential - I've already spotted two major issues in the logic which I've fixed before getting into difficulties with the code
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/4635cbf71bf79d890960a8b2374447e8255fed38
+
+
+------------------------------------------------------
+
