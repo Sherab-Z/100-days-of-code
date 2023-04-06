@@ -449,3 +449,16 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 20: April 6, 2023
+
+**Today's Progress**: Went backwards. Finished logic tree, then realized the whole basis of my logic is flawed - if I simply check and manipulate an array based on its number of el's, my code will be unreadable and it'll end up even more complicated too. So I have to scrap that whole approach and start over with working this out. I've sketched an object in pseudocode to hold the values instead, with one of its values being an operation array that receives the values, then outputs to an outputVal key. I haven't yet figured out whether or not this'll work, though.
+
+**Today I Learned/Practiced**: Logic trees; The importance of starting with the big picture, and working down from there gradually. 
+
+**Thoughts & Feelings**: I grabbed onto the idea of manipulating an array too soon, before really thinking about all of the implications of that first, and the alternative approaches available. Feeling rather deflated, as I thought I'd be well into coding by now. And instead, I'm back at the drawing board...I'm glad I'm taking the time to plan properly, though, as I'd be a LOT more frustrated if I only came to this realization after coding half of the project!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/72eb1ea5aeecc2c13be89a0f9c6bee765374202c
+
