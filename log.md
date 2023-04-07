@@ -462,3 +462,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JS-Calculator/commit/72eb1ea5aeecc2c13be89a0f9c6bee765374202c
 
+
+
+### Day 21: April 7, 2023
+
+**Today's Progress**: Not much. Most of the time spent thinking through how to manipulate the variable keys in the calcObj. Then trying out a flowchart maker tool called creately.com. It makes diagraming and editing a LOT faster! So I'll be using that in future, instead of doing slowly it in Notability...
+
+**Today I Learned/Practiced**: Using logic flowcharts, and using apps to streamline creating them
+
+**Thoughts & Feelings**: Barely started my flowchart before fam burst in with Peta desperate for a break from the girls on her constantly. It's really hell sometimes, tyring to make any progress in my work, both learning and earning...
+
+**Link(s) to work**: 
+1. https://app.creately.com/d/2Eg5WuDwLNg/edit
+
+
+------------------------------------------------------
+
