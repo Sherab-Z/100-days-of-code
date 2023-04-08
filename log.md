@@ -478,3 +478,20 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 22: April 8, 2023
+
+**Today's Progress**: Making major progress in understanding the needed logic and algorithic structure, and being able to articulate this in a flowchart on creately.com. 
+
+**Today I Learned/Practiced**: Deciding & designing program logic, and mapping that out in a flowchart diagram
+
+**Thoughts & Feelings**: It's massively better to use a software like creately.com, as the editing process is simple drag&drop, etc, so my ideas can really flow...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/cb1d69416ae4bad5d69128a729d2a67de775d5f9
+2. Creately.com flowchart: https://app.creately.com/d/2Eg5WuDwLNg/edit
+
+
+------------------------------------------------------
+
