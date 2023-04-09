@@ -495,3 +495,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 23: April 9, 2023
+
+**Today's Progress**: Another complete rewrite of my logic, and restart to my pseudocode. Decided to a ask chatGPT for an overview of the logic, and it showed me that I was off in my data modeling. I needed to add an input variable, as well as 'numA' and 'numB' - which are operands (I was making a dodgy State Machine, it turns out). I need an input, operator, operandA, operandB, modifier, result and state. The operator key grabs the input and stores it in operandA or operandB, depending on the state, etc...
+
+**Today I Learned/Practiced**: Data models (input queue, state machine); AI prompting - checking its output critically, then reprompting when I spot something that's off; working with md files
+
+**Thoughts & Feelings**: Even though I had to scrap literally all the logic planning I'd done before today, and I 'gave in' to using AI to help me, I actually feel it was the smart/right thing to do, as now I've thought deeply about how to build this thing, and so I can really dig into the AI's outputs and correct them to get what I need. It wasn't wasted time - just part of learning this thing well!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/9b692e1cbb109a256e7e2a467b471bc817b78d90
+
+
+------------------------------------------------------
+
