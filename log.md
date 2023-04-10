@@ -511,3 +511,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 24: April 10, 2023
+
+**Today's Progress**: Confirmed my object structure with AI tools, and began reworking my code to start applying this latest logical architecture. I also did some research into functional programming and whether to start applying it here, but chatGPT advised that it's still too early in my learning, and I'd better stay with OOP for now
+
+**Today I Learned/Practiced**: AI prompting; Functional Programming vs OOP
+
+**Thoughts & Feelings**: Tired, but happy that I'm keeping this going. Didn't make much forward progress in just over an hour, but resolved a few questions/concerns I had about the foundations of my approach to building this app & my learning path
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/3fbb1650d04eb7b599cc4a0f1f2ec30443dbfa11
+
+
+------------------------------------------------------
+
