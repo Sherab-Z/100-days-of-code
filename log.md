@@ -527,3 +527,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 25: April 11, 2023
+
+**Today's Progress**: Began actual coding again! Yay! I added an initializer function; encapsulated and completed adding all the event listeners; matched classes between html, css, js. Worked out some bugs after encapsulating the e.l.'s
+
+**Today I Learned/Practiced**: Encapsulation; html, css, js
+
+**Thoughts & Feelings**: Happy to be on the coding road again :) 
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/76d28fa7da776880152fe836f54c70f7fd78f76a
+
+
+------------------------------------------------------
+
