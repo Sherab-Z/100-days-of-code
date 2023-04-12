@@ -543,3 +543,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 26: April 12, 2023
+
+**Today's Progress**: Changed the buttons so that each button now sends its value from its html attribute, instead of setting their values in the js itself. This way my code will remain much more high-level, and I can just focus on the logic instead of details. I spent a long time refactoring my event listeners to make this work
+
+**Today I Learned/Practiced**: The event listener is actually the function that is being called. And it's best call it just by its name, not with parentheses. AI proompting
+
+**Thoughts & Feelings**: I'm getting good at proompting AI to help me build code!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/9acc6646aa642a74b75244c1da6ea62820c20093
+
+
+------------------------------------------------------
+
