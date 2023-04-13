@@ -558,3 +558,15 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 27: April 13, 2023
+
+**Today's Progress**: Fixed the vertical resizing issue in css; worked on my event handlers again, refactoring to use event parameters; tested and verified initialize() func.; started writing event handlers for number btns and AC btn
+
+**Today I Learned/Practiced**: Event Handling; Responsive css; git workflow; Learning with an AI tutor (Bing)
+
+**Thoughts & Feelings**: Confident in my abilities at this level. If I don't know how, I can figure it out!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/b698cc1c609d2d835e91c492ae4ac07ca3d15430
