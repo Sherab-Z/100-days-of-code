@@ -570,3 +570,21 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JS-Calculator/commit/b698cc1c609d2d835e91c492ae4ac07ca3d15430
+
+
+------------------------------------------------------
+
+
+### Day 28: April 14, 2023
+
+**Today's Progress**: Massively refined and refactored my pseudocode: Broke it down based on button inputs, then current state ("input mode", etc), then actions to perform; Added state updates and output display instructions to the end of each IF block.
+
+**Today I Learned/Practiced**: Writing program logic into psuedocode.
+
+**Thoughts & Feelings**: I'm flying along now! This is great, I've just done 90 minutes of pure, focussed programming work. HECK YEAH!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/aba8fae0702f0aa56c667291dfb983a4bfc240de
+
+
+------------------------------------------------------
