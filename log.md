@@ -588,3 +588,16 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 
 ------------------------------------------------------
+
+
+### Day 29: April 15, 2023
+
+**Today's Progress**: Completed turning my algorithm into proper pseudocode in about 45m.
+
+**Today I Learned/Practiced**: Transforming algorithm --> pseudocode
+
+**Thoughts & Feelings**: I feel pretty confident that this will work. It'll probably be missing some secondary functionality, similar to  the decimal issue I fixed already (should only accept one '.' button input per input value)...we'll see. I next have to refactor my js code to match the fundamental changes I've instituted in my new, tweaked logic.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/30657708a9cfef308e1a3fce1fa89bf7d5db4137
+
