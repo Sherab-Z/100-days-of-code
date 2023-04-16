@@ -601,3 +601,21 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JS-Calculator/commit/30657708a9cfef308e1a3fce1fa89bf7d5db4137
 
+
+------------------------------------------------------
+
+
+### Day 30: April 16, 2023
+
+**Today's Progress**: Refactored my entire logic psuedocode to include converting number btn input strings to numbers, then processing and outputting as strings again. Also reworked some existing functions. And made sure it all works as before. 
+
+**Today I Learned/Practiced**: Refactoring code; VS Code keyboard shortcuts
+
+**Thoughts & Feelings**: Getting pretty quick at this coding thing..I feel more and more proficient every day..
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/5c0f24832e454d6203aed0db96970df7779b1b37
+
+
+------------------------------------------------------
+
