@@ -619,3 +619,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 31: April 17, 2023
+
+**Today's Progress**: Refactored my button event listeners to use the id's instead of classes, for the code to be more robust in case I change the classes later on; added a decimal limiter function so only one decimal can be added per input string. Still need to implement the processNumInput function so it displays the updated number on the UI correctly.
+
+**Today I Learned/Practiced**: Refactoring code; AI code help (Bing) + critical eye on it; processing flows
+
+**Thoughts & Feelings**: Confident, but I need to rest more so I'm better and faster at this
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/dc6623aa72da0da3eb9edd41e5ca4569ba763452
+
+
+------------------------------------------------------
+
