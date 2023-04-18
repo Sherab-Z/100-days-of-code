@@ -634,3 +634,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 32: April 18, 2023
+
+**Today's Progress**: Fixed some bugs, limited digit inputs to 11 to fit on display, fixed decimal input so it's in processing flow of number inputs
+
+**Today I Learned/Practiced**: Bug fixing in logic, packaging code as a function to be reused elsewhere - when & how to do that
+
+**Thoughts & Feelings**: Lovely feeling to be making progress and knocking out bug fixes
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/eff60c88a5785ae43610ec2acd5a7296a43c045a
+
+
+------------------------------------------------------
+
