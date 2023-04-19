@@ -649,3 +649,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 33: April 19, 2023
+
+**Today's Progress**: Middle of a bug fix and refactor to remove type conversion. It's a mess! Numbers I input go into inputStr, but no longer show up on the display...
+
+**Today I Learned/Practiced**: Major refactoring to remove redundancies. Maybe not the best idea in the middle of a project. I'm learning what's necessary and what's too much. The type conversion was making my code way too complicated and verbose, so I decided to remove it as it no longer even served a purpose after I realized I should just display the inputStr anyway, and not send it on to outObj. Oh well, I'm learning.
+
+**Thoughts & Feelings**: Frustration that this project has taken around 6 weeks already, and I'm still in the middle of it...but I just don't have enough solid blocks of time to focus on it solely, I'm trying to start a business at the same time, work, raise our girls, etc...BUT I do feel way more confident in actually being able to fix this bug, knowing how to navigate my code pretty easily - that's great!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/2024b136b309e88ebcd2d21a87966b3019d49570
+
+
+------------------------------------------------------
+
