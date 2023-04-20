@@ -664,3 +664,18 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 34: April 20, 2023
+
+**Today's Progress**: Fixed a bunch of old projects and took screenshots for my portfolio site. Needed to reconnect local git to github for my Flexbox landing page project. Used chatGPT to guide me.
+
+**Today I Learned/Practiced**: Troubleshooting in git; Updating CSS in old projects; Styling
+
+**Thoughts & Feelings**: I'm really getting fast and efficient at running through old projects and fixing things quickly in CSS and HTML. I think I've become a pro at these now! 
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/flexbox-landing-page/commit/9861989193ac2c6e21db2187a3ddfebdf8c4934b
+
+
+------------------------------------------------------
+
