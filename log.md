@@ -682,14 +682,14 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ### Day 35: April 21, 2023
 
-**Today's Progress**: Looked through old projects for my portfolio, to find which ones need finishing or fixing. Almost all of them! So I started finising my Note-Taker app from 3 years ago. So far I just have an overview of what needs done, and started editing var names.
+**Today's Progress**: Looked through old projects for my portfolio, to find which ones need finishing or fixing. Almost all of them! So I started finising my Note-Taker app from 3 years ago. So far I just have an overview of what needs done, and started editing var names. Also fixed a bug with referencing a newNote in the inputBoxObj.makeNote function.
 
 **Today I Learned/Practiced**: Reviewing old code and updating it
 
 **Thoughts & Feelings**: Tired. Was with fam all day in Prague, nightmare turned to loveliness, but I'm exhausted! Finally got to this, but very little time for it.
 
 **Link(s) to work**: 
-1. https://github.com/Sherab-Z/js-note-taker/commit/71be0328fbfe856564f05c898db2c127826fccf8
+1. https://github.com/Sherab-Z/js-note-taker/commit/38d6dd49f8902d0abeb5831f0be97241c90b0ff4
 
 
 ------------------------------------------------------
