@@ -694,3 +694,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+
+### Day 36: April 22, 2023
+
+**Today's Progress**: Made my old Notes app work, finally! It's 3 years old.. Got the 'Add Note' btn to add a note to the board underneath, and added a Return key event listener too. AI helped a lot for chunks, but I did most of the building myself.
+
+**Today I Learned/Practiced**: Event Listeners, OOP, Named functions vs Anonymous functions, Dev Tools
+
+**Thoughts & Feelings**: Happy to be on the road so quickly with finishing this project! I'm becoming so fast at this :)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/js-note-taker/commit/153e0f7c538245618b26f8f9d2aab26a026aee5f
+
+
+------------------------------------------------------
+
