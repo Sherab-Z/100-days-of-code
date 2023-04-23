@@ -710,3 +710,17 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 ------------------------------------------------------
 
+
+### Day 37: April 23, 2023
+
+**Today's Progress**: Began refactoring my app to use a NoteManager class to encapsulate all the note management functionality, instead of using the flimsy boardObj array I've been using.
+
+**Today I Learned/Practiced**: OOP, Classes, naming conventions (classes get ClassName instead of className)
+
+**Thoughts & Feelings**: I feel like I'm cheating by using chatgpt to write so much of the code. I understand what it's doing, and how to use it, it just feels like I'm not really learning as much...Also, I'm not sure if I should even be doing OOP before I've touched it in The Odin Project...I'm trying to finish this project for my portfolio, but maybe I chose the wrong one to finish first..?
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/js-note-taker/commit/90964f1dcc0a2957b825e74b474c3b43bfbb22b1
+
+
+------------------------------------------------------
