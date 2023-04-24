@@ -724,3 +724,19 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 
 ------------------------------------------------------
+
+
+### Day 38: April 24, 2023
+
+**Today's Progress**: Started React course, installed files create-react-app, used github, etc
+
+**Today I Learned/Practiced**: Installing packages via terminal, reading through codebases
+
+**Thoughts & Feelings**: Excited - I might land my first big project, working on Polish Ninja app with Alex from Samye Ling - meeting tomorrow :)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/polish-tutor-client_fork
+
+
+------------------------------------------------------
+
