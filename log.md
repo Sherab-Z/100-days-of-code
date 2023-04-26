@@ -3,6 +3,8 @@
 
 ### Day : , 2023
 
+**Today's Project: 
+
 **Today's Progress**: 
 
 **Today I Learned/Practiced**: 
@@ -754,6 +756,23 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JS-Calculator/commit/0834cd9d1f9599bb0ec02087de7bf0e60c415190
+
+
+------------------------------------------------------
+
+
+### Day 40: April 26, 2023
+
+**Today's Project: JS Calculator (TheOdinProject)
+
+**Today's Progress**: Made the modifier btns work, but bugs remain in % btn. Cleaned up some program flow, and realized I may need to add a new 'initial' state, so that the initial '0' is removed when a new num input begins...
+
+**Today I Learned/Practiced**: State management; adding funcitions; deleting git branches locally and remotely from cli
+
+**Thoughts & Feelings**: Really getting confident in JS, VS Code and git/github. I more-or-less know what's going on in each (at my current level, at least!) and how to interact with them. I still have a LOT to learn though! :)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/b6fde387ea35714199c3d355b504dd39311b4c28
 
 
 ------------------------------------------------------
