@@ -776,3 +776,20 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 
 
 ------------------------------------------------------
+
+
+### Day 41: April 27, 2023
+
+**Today's Project: JS Calculator app
+
+**Today's Progress**: Started adding a toggle object to hold temp vars, such as decimalApplied : false, etc, which will be managed via app states.
+
+**Today I Learned/Practiced**: How state machines might be used to manage variables
+
+**Thoughts & Feelings**: Exhausted! I only managed 30m today, as I've been knocked and discombobulated all day after no proper wake up time, then a disappointment with a client prospect meeting getting cancelled, and a lot of emotional trauma and fatigue going on right now. But I'm glad I showed up tonight to keep this ball rolling....
+
+**Link(s) to work**: 
+1. 
+https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571efe86c4a4
+
+------------------------------------------------------
