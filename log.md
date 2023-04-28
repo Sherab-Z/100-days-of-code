@@ -793,3 +793,20 @@ GITHUB ERROR WITH MY COMMIT AND ALL CHANGES LOST!
 https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571efe86c4a4
 
 ------------------------------------------------------
+
+
+### Day 42: April 28, 2023
+
+**Today's Project: JS Calculator, The Odin Project
+
+**Today's Progress**: It's nearly there! I've cleaned up some of the processing flow, removed the toggleObj as it ended up being redundant, fixed the 'initial zero' issue where it would stay on the inputs, and a few other improvements like these. All that seems to remain is fixing the state management to that the result goes to the right place and gets displayed, and maybe some other tidy-up after each mode change
+
+**Today I Learned/Practiced**: State management; Function decomposition into smaller functions
+
+**Thoughts & Feelings**: I'm getting shit hot at this stuff! Even in my delirious late-night state after a really tough evening with Petra (we kissed and hugged in the end, but it was ROUGH in Roztoky getting in the car)...I'm proud of us and of me :)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/d132c34db65eba7db518752ff30570c849f9ee68
+
+
+------------------------------------------------------
