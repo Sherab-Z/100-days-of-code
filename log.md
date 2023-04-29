@@ -810,3 +810,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 43: April 29, 2023
+
+**Today's Project: JS Calculator, The Odin Project
+
+**Today's Progress**: Added a 'toDisplay' key to outObj, so that there's only one source of display content. Now I can apply all filters (e.g. 10-char limit on the display) to that one prop. Feature isn't finished yet...
+
+**Today I Learned/Practiced**: Functional programming technique - data funnelling
+
+**Thoughts & Feelings**: Getting more confident in my conceptual understanding of what's going on in the processing flow of my app, and also how to update and fix things on the fly. But started too late (11:40pm) so not able to do much today...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/a61148b3c0f7144c68402daa461caaae6f71782b
+
+
+------------------------------------------------------
