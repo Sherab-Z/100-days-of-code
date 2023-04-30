@@ -827,3 +827,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 44: May 1, 2023
+
+**Today's Project: JS Calculator, Odin Project
+
+**Today's Progress**: Fixed 2 bugs: made the scientific notation display instead of numbers flowing off the display, and fixed minus sign toggling issue during sci notation display. Found another major issue with the whole processing flow, meaning that operator buttons aren't triggering the right things and no results are being displayed. Will need serious investigation to fix this.
+
+**Today I Learned/Practiced**: Bug-fixing, bug-hunting
+
+**Thoughts & Feelings**: Confident, and happy that I showed up today, bc I almost didn't! I have dental issues, depression and financial troubles, and my family is struggling. But I'm not giving up.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/a591f23e0a4a4268af8a4c4c9fccb600aff57efb
+
+
+------------------------------------------------------
