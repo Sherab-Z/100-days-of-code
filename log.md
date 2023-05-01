@@ -829,7 +829,7 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 ------------------------------------------------------
 
 
-### Day 44: May 1, 2023
+### Day 44: April 30, 2023
 
 **Today's Project: JS Calculator, Odin Project
 
@@ -841,6 +841,23 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 **Link(s) to work**: 
 1. https://github.com/Sherab-Z/JS-Calculator/commit/a591f23e0a4a4268af8a4c4c9fccb600aff57efb
+
+
+------------------------------------------------------
+
+
+### Day 45: May 1, 2023
+
+**Today's Project: JS Calculator, Odin Project
+
+**Today's Progress**: Successfully refactored the naming to make the processing flow clearer, using chatGPT. The purpose is to fix the processing flow, which currently isn't performing calculations or putting the results in the right place for displaying them.
+
+**Today I Learned/Practiced**: Refactoring, bugfixing, AI prompting with code and checking its output
+
+**Thoughts & Feelings**: Not a lot of progress, but I got a better overview of how my app works now.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/df977619d1ce43944249cc6cdd8533155f70cd07
 
 
 ------------------------------------------------------
