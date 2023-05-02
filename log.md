@@ -861,3 +861,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 46: May 2, 2023
+
+**Today's Project: JS Caclulator, Odin
+
+**Today's Progress**: I've found where the bug is coming from, but it's in the logic so will take some time to fix - after an operator btn click, any new number input sets the state back to "input", but it should stay in "operator" mode so that the execute... function works properly
+
+**Today I Learned/Practiced**: AI prompting, state management, bug-hunting!
+
+**Thoughts & Feelings**: Pretty exhilirating to find bugs, but frustrating working with chatGPT 3.5 - it's just not up to it yet. Took me in bloody circles for ages, kept making redundant suggestions and even repeating itself at times, or even hallucinating...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/6d99a1d3f0ee49a179e46ef1f347781d8b4cfd96
+
+
+------------------------------------------------------
