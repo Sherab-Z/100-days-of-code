@@ -878,3 +878,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 47: May 3, 2023
+
+**Today's Project: JS Calc app, Odin
+
+**Today's Progress**: I'm midway through a major refactor of the event handling. New function that handles all button clicks and calls the releveant function to process them, based on the button type (gotten by other functions I wrote tonight). This is to simplify the logical flow, to make it easier to identify where to trigger certain actions. I also wrote a state management function tonight, which should replace all the scattered state updates throughout the code. 
+
+**Today I Learned/Practiced**: Refactoring to streamline processing logic
+
+**Thoughts & Feelings**: On FIRE! I wrote soooo much tonight! I only wish I'd used git, as I just went into it and forgot to commit until the end...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/85d2d6ba94880aac8a55a10f8914ddc9d4717b6e 
+
+
+------------------------------------------------------
