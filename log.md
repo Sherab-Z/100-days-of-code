@@ -895,3 +895,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 48: May 4, 2023
+
+**Today's Project: JS Calc, Odin Project
+
+**Today's Progress**: Fixed state management, but a few bugs remain with displaying values, etc
+
+**Today I Learned/Practiced**: State management, functional programming paradigm
+
+**Thoughts & Feelings**: I'm starting to understand how to use functional programming (FP) principles in practice, and the value of FP as an approach
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/1a17bbf65c365773008e17c4e418265915c6d2fa
+
+
+------------------------------------------------------
