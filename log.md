@@ -912,3 +912,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 49: May 5, 2023
+
+**Today's Project: JS Calculator, Odin Project
+
+**Today's Progress**: Fixed a bug with AC button emptying the display, and got the calculator to output and display the result of the first operation! Still need to fix it for subsequent operations based on the first one, but I think I've found how to do it - I'm just too tired rn ;)
+
+**Today I Learned/Practiced**: Bugfixing, functions
+
+**Thoughts & Feelings**: Confident, tired, and happy
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/e03b945c125fe65ea9ac60d900f3dcb0fb6da0b9
+
+
+------------------------------------------------------
