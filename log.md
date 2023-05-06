@@ -929,3 +929,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 50: May 6, 2023
+
+**Today's Project: JS Calc, Odin
+
+**Today's Progress**: None. I tried updating the state management (instead of fixing the operator management of oparaands, as I came here to do!) but failed. I messed around with git quite a lot, reverting and trying to cherry-pick my changes to keep anything useful I did today, but none of the changes work. So my code is in exactly the same state as when I began tonight...Argh!
+
+**Today I Learned/Practiced**: Comparing changes in git using GitLens to cherry pick code snippets to keep (none in this case!)
+
+**Thoughts & Feelings**: Frustrated and tired. I started after 10pm again - always a mistake, but I need to keep up this #100Days challenge..
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/68d217090e5b52cbd02ad01c4210d30008b25a16
+
+
+------------------------------------------------------
