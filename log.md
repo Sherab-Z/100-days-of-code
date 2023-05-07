@@ -946,3 +946,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 51: May 7, 2023
+
+**Today's Project: JS Calc, Odin
+
+**Today's Progress**: Almost zilch. I sat down at 9:45pm, and my brain is mush.. Decided that sleep is more important now for tomorrow's coding and work in general, so I'll leave it after 20m of tweaking the code. It still works.
+
+**Today I Learned/Practiced**: Reading code
+
+**Thoughts & Feelings**: Tired. Goodnight.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/a82ce27192443af77a1bd656f094416de0db6f4e
+
+
+------------------------------------------------------
