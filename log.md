@@ -963,3 +963,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 52: May 8, 2023
+
+**Today's Project: JS Calc, Odin  
+
+**Today's Progress**: Got close to seeing the root of the operator issue (chains of operations before hitting the equals button leads to the inputObj getting cleared prematurely, so the subsequent op's don't work)...but I started late again, so my brain shut down halfway through.
+
+**Today I Learned/Practiced**: I need to start earlier in the day, not after 10pm!!!!
+
+**Thoughts & Feelings**: AArgh! I'm sooo close to finishing this project, but I keep shooting myself in the foot by starting so late. Tomorrow I'll be out all day for mila's diagnosis, but from Wed I will only code in the daylight :)
+
+**Link(s) to work**: 
+1. code screenshot shared to Twitter
+
+
+------------------------------------------------------
