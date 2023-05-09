@@ -980,3 +980,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 53: May 9, 2023
+
+**Today's Project: JS Calc
+
+**Today's Progress**: Not much again. Big day out with Mila to psychologist, and started after 9:25, so went brain dead early on. I started refactoring to oscillate between 'input' and 'operator' modes if multiple operations are input before the user hits '=' button, but I stupidly relied on chatGPT to work out what to do instead of looking through the code myself. I understood what it was telling me to change, but not the program flow / context, so I shouldn't have even started implementing those changes. I'll not take this approach in future.
+
+**Today I Learned/Practiced**: AI prompting, Functional Programming
+
+**Thoughts & Feelings**: Tired. V v tired.
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/e806b14dc0012395d52088b63fa319db2b824dc4
+
+
+------------------------------------------------------
