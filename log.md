@@ -1014,3 +1014,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 55: May 11, 2023
+
+**Today's Project: JS Calc, Odin Project
+
+**Today's Progress**: Major refactoring and bugfixing! Went really well, and my code is in much better shape now :) Still some bugs remain in terms of the actual output, but I feel a lot more confident about the underlying logic now :)
+
+**Today I Learned/Practiced**: Program logic, refactoring, bugfixing, AI prompting
+
+**Thoughts & Feelings**: BOOYAH! Spent 4.5 hours coding today, and I'm back on fire! I'll do this every chance I get from here on out ;)
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/f8487672f1c4a3d811a6f9b096f12e91585878b7
+
+
+------------------------------------------------------
