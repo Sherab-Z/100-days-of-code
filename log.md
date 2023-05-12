@@ -1031,3 +1031,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 56: May 12, 2023
+
+**Today's Project: JS Calc, Odin 
+
+**Today's Progress**: Worked on pseudo logic for operator btn inputs. Also began learning about NextJS for Alex's project
+
+**Today I Learned/Practiced**: Programming logic
+
+**Thoughts & Feelings**: This is too slow, I need to optimize my workflow for how I build projects and study concepts...
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/cbc3356f8cfe1a5a86c8f5b8caa38dd1a750195b
+
+
+------------------------------------------------------
