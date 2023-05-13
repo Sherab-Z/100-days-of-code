@@ -1048,3 +1048,20 @@ https://github.com/Sherab-Z/JS-Calculator/commit/889aba5510d3d7769d815fec9f2b571
 
 
 ------------------------------------------------------
+
+
+### Day 57: May 13, 2023
+
+**Today's Project: JS Calc 
+
+**Today's Progress**: Found possible solution to equals btn bug
+
+**Today I Learned/Practiced**: Bug-hunting
+
+**Thoughts & Feelings**: Pushed for time, with girls all over me as I write this. Not much time today as I have a sweat lodge today, so doing this before I go...Proud that I showed up!
+
+**Link(s) to work**: 
+1. https://github.com/Sherab-Z/JS-Calculator/commit/5f740a06e5961fec125341697b5c68babf716ff1
+
+
+------------------------------------------------------
